@@ -80,7 +80,7 @@ g.es("admin pelican 近端執行完畢")
 if __name__ == "__main__":
     app.run()
     
-app.register_blueprint(users.a.g6.ag6_40323152.ag6_40323152)
+app.register_blueprint(users.a.g6.ag6_40323155.ag6_40323155)
 
 </t>
 <t tx="amd.20160501221001.10">@app.route('/fileaxupload', methods=['POST'])
@@ -216,7 +216,7 @@ import os
 # init.py 為自行建立的起始物件
 import init
 
-import users.a.g6.ag6_40323152
+import users.a.g6.ag6_40323155
 # 確定程式檔案所在目錄, 在 Windows 有最後的反斜線
 _curdir = os.path.join(os.getcwd(), os.path.dirname(__file__))
 # 設定在雲端與近端的資料儲存目錄
